@@ -300,7 +300,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a35c26e9b25c4b241b26dac4d87ee762, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerPos: {fileID: 1146208286}
   speedZoom: 20
 --- !u!1 &619394800
 GameObject:
@@ -486,7 +485,7 @@ GameObject:
   - component: {fileID: 1146208287}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
