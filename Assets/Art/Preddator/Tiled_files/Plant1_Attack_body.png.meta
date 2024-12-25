@@ -238,7 +238,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -286,6 +286,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1809,7 +1887,75 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant1_Attack_body_0: 3244528134139227909
+      Plant1_Attack_body_1: 7583228010692000733
+      Plant1_Attack_body_10: -7361000397452200141
+      Plant1_Attack_body_11: -4912006804366587110
+      Plant1_Attack_body_12: 8745239122644436256
+      Plant1_Attack_body_13: 1174558833122354682
+      Plant1_Attack_body_14: 4813188569528168543
+      Plant1_Attack_body_15: -4984349058213252704
+      Plant1_Attack_body_16: 5304928532554253345
+      Plant1_Attack_body_17: -2374365150789778134
+      Plant1_Attack_body_18: -5159065352908293711
+      Plant1_Attack_body_19: -7325101453635847734
+      Plant1_Attack_body_2: 867648701308890880
+      Plant1_Attack_body_20: 319169319749527560
+      Plant1_Attack_body_21: -4553931678517776545
+      Plant1_Attack_body_22: -9100609308371944447
+      Plant1_Attack_body_23: -7041248849118697739
+      Plant1_Attack_body_24: -9023894636187071125
+      Plant1_Attack_body_25: -6956445586652354966
+      Plant1_Attack_body_26: 3598617569075176595
+      Plant1_Attack_body_27: 2686050446245045139
+      Plant1_Attack_body_28: -233358366489129300
+      Plant1_Attack_body_29: -4673492474851267457
+      Plant1_Attack_body_3: 4071847763014245281
+      Plant1_Attack_body_30: -1989832786853118850
+      Plant1_Attack_body_31: 4404126701310555749
+      Plant1_Attack_body_32: -1346734006200924753
+      Plant1_Attack_body_33: 1724074506508371892
+      Plant1_Attack_body_34: -3508589438817877934
+      Plant1_Attack_body_35: 666129726532365107
+      Plant1_Attack_body_36: 2830423745841444488
+      Plant1_Attack_body_37: -2213040859815819899
+      Plant1_Attack_body_38: -3149693473366962963
+      Plant1_Attack_body_39: 8842167327666739668
+      Plant1_Attack_body_4: 4268565813352443595
+      Plant1_Attack_body_40: -6024187386565679985
+      Plant1_Attack_body_41: 3021236331635661397
+      Plant1_Attack_body_42: 2536722217954767428
+      Plant1_Attack_body_43: 743994204285814535
+      Plant1_Attack_body_44: -5068406052488295461
+      Plant1_Attack_body_45: 8804057440493445635
+      Plant1_Attack_body_46: -4945889469027846854
+      Plant1_Attack_body_47: -5947985863272264567
+      Plant1_Attack_body_48: -2723003751249944450
+      Plant1_Attack_body_49: -7875561012213176686
+      Plant1_Attack_body_5: 8876102415722334731
+      Plant1_Attack_body_50: -3873997972894721959
+      Plant1_Attack_body_51: 2681831767433103764
+      Plant1_Attack_body_52: 7737929198940553317
+      Plant1_Attack_body_53: -7856747538295686442
+      Plant1_Attack_body_54: 1018105361912899547
+      Plant1_Attack_body_55: -3656186146680521221
+      Plant1_Attack_body_56: 651255258584506409
+      Plant1_Attack_body_57: -9209978529544673026
+      Plant1_Attack_body_58: 5175703803061160709
+      Plant1_Attack_body_59: -3893955480984467654
+      Plant1_Attack_body_6: 8675297845795814675
+      Plant1_Attack_body_60: -4872071804837516645
+      Plant1_Attack_body_61: -7032039210032899046
+      Plant1_Attack_body_62: -4270485391014898977
+      Plant1_Attack_body_63: -5948283588767970478
+      Plant1_Attack_body_64: 7020470243552171751
+      Plant1_Attack_body_65: 5460064084409681515
+      Plant1_Attack_body_66: 7885327361549957972
+      Plant1_Attack_body_67: -4646102286834084755
+      Plant1_Attack_body_7: 1530038989402260160
+      Plant1_Attack_body_8: -3515547707696531093
+      Plant1_Attack_body_9: 3050337148014573322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

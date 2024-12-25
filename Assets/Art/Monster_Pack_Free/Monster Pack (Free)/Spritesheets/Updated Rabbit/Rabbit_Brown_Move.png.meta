@@ -106,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -154,6 +154,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -709,7 +787,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rabbit_Brown_Move_0: 1638438590836382622
+      Rabbit_Brown_Move_1: -3237551747800637557
+      Rabbit_Brown_Move_10: -5683962997118025245
+      Rabbit_Brown_Move_11: 5973365604513523192
+      Rabbit_Brown_Move_12: 7570449791647174802
+      Rabbit_Brown_Move_13: 6203390622007435940
+      Rabbit_Brown_Move_14: -4798751533752299054
+      Rabbit_Brown_Move_15: 4531220207707494592
+      Rabbit_Brown_Move_16: 1825431671945397472
+      Rabbit_Brown_Move_17: -1581025031208326547
+      Rabbit_Brown_Move_18: -8806110882126405763
+      Rabbit_Brown_Move_19: 8702148827064461265
+      Rabbit_Brown_Move_2: 697337132957016905
+      Rabbit_Brown_Move_20: 1072685708177847855
+      Rabbit_Brown_Move_21: -4937549175229334306
+      Rabbit_Brown_Move_22: -6825505454376104705
+      Rabbit_Brown_Move_23: 120785182343613082
+      Rabbit_Brown_Move_3: -6393407095215861448
+      Rabbit_Brown_Move_4: 1337920652222372275
+      Rabbit_Brown_Move_5: -5924857451158868924
+      Rabbit_Brown_Move_6: -7138363664859429960
+      Rabbit_Brown_Move_7: -1854998540641313773
+      Rabbit_Brown_Move_8: -6876806532877960561
+      Rabbit_Brown_Move_9: 6863667515795749470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

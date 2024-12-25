@@ -400,7 +400,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -448,6 +448,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3159,7 +3237,129 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant1_Death_full_0: 2129379739008465494
+      Plant1_Death_full_1: -8757029735825101673
+      Plant1_Death_full_10: -4918772982038775935
+      Plant1_Death_full_100: 1128745221309265245
+      Plant1_Death_full_101: 624839558055779408
+      Plant1_Death_full_102: -3180095321444934281
+      Plant1_Death_full_103: -172127270705513808
+      Plant1_Death_full_104: -8713283832452996506
+      Plant1_Death_full_105: 3199094197245085915
+      Plant1_Death_full_106: 8222876040794654407
+      Plant1_Death_full_107: 4360729055622003401
+      Plant1_Death_full_108: -7160165658375025298
+      Plant1_Death_full_109: 7777718457181875590
+      Plant1_Death_full_11: -1371365665082050164
+      Plant1_Death_full_110: -5250211530913942079
+      Plant1_Death_full_111: -8449491127963339045
+      Plant1_Death_full_112: -4258679527526954539
+      Plant1_Death_full_113: 2156322293425650392
+      Plant1_Death_full_114: -1966890783512014685
+      Plant1_Death_full_115: -7929934036430605831
+      Plant1_Death_full_116: 2868099137945116357
+      Plant1_Death_full_117: 8953334700674433338
+      Plant1_Death_full_118: 2424320819066195869
+      Plant1_Death_full_119: -7277644661003289507
+      Plant1_Death_full_12: 2950782258655673794
+      Plant1_Death_full_120: -4565483923347969547
+      Plant1_Death_full_121: 7322973211831664925
+      Plant1_Death_full_13: 1037708317250451946
+      Plant1_Death_full_14: -7937963857023448201
+      Plant1_Death_full_15: 1495366219467653771
+      Plant1_Death_full_16: 2455793852678953039
+      Plant1_Death_full_17: 2495965281381305587
+      Plant1_Death_full_18: 9054722917504403209
+      Plant1_Death_full_19: -3160037548602557214
+      Plant1_Death_full_2: 8837742223195819815
+      Plant1_Death_full_20: 8333593865571888130
+      Plant1_Death_full_21: -8697225804364910643
+      Plant1_Death_full_22: 9197229229382383860
+      Plant1_Death_full_23: 3794646116335045210
+      Plant1_Death_full_24: 8288859891092565412
+      Plant1_Death_full_25: 5966310893035726238
+      Plant1_Death_full_26: -8148124203367615461
+      Plant1_Death_full_27: 5848920980541554556
+      Plant1_Death_full_28: 1697904297382247615
+      Plant1_Death_full_29: 892074953871580027
+      Plant1_Death_full_3: -311531141252691873
+      Plant1_Death_full_30: 6640005569582725001
+      Plant1_Death_full_31: -5949378609487468782
+      Plant1_Death_full_32: 8767999137983114508
+      Plant1_Death_full_33: -8586733737736289320
+      Plant1_Death_full_34: -2727292116130145297
+      Plant1_Death_full_35: 2121929506900624537
+      Plant1_Death_full_36: -4686754070376375795
+      Plant1_Death_full_37: -328166982899833072
+      Plant1_Death_full_38: -2503204111464468824
+      Plant1_Death_full_39: -2381171122983161670
+      Plant1_Death_full_4: -2752947892149156002
+      Plant1_Death_full_40: -7171642436718243293
+      Plant1_Death_full_41: 4683735025097089514
+      Plant1_Death_full_42: 8537749543095840972
+      Plant1_Death_full_43: -4584780955444668029
+      Plant1_Death_full_44: -8998744869286060897
+      Plant1_Death_full_45: -1211371770085458105
+      Plant1_Death_full_46: -9173869629811336616
+      Plant1_Death_full_47: -7015674214751676274
+      Plant1_Death_full_48: -2061306450932614727
+      Plant1_Death_full_49: -3129380608455877816
+      Plant1_Death_full_5: 4547562327944951102
+      Plant1_Death_full_50: 7912997035323665231
+      Plant1_Death_full_51: 1458074358634562301
+      Plant1_Death_full_52: -5512023098939054626
+      Plant1_Death_full_53: -4563851122615265714
+      Plant1_Death_full_54: 5991350315704272822
+      Plant1_Death_full_55: -831148263822787148
+      Plant1_Death_full_56: 5356056157037709167
+      Plant1_Death_full_57: 7126942713099019765
+      Plant1_Death_full_58: -86977494247507791
+      Plant1_Death_full_59: 8210282999103763216
+      Plant1_Death_full_6: -5014139303983256816
+      Plant1_Death_full_60: 192020022668348814
+      Plant1_Death_full_61: -2721616802441933803
+      Plant1_Death_full_62: -8608159627872713722
+      Plant1_Death_full_63: -494188055369008318
+      Plant1_Death_full_64: -5574861168233544480
+      Plant1_Death_full_65: 7524124445134079110
+      Plant1_Death_full_66: 6628660007813320847
+      Plant1_Death_full_67: -8846944686029738166
+      Plant1_Death_full_68: 6431206884551052366
+      Plant1_Death_full_69: 8597112148564084496
+      Plant1_Death_full_7: 8128942778349836113
+      Plant1_Death_full_70: 1928137577050786747
+      Plant1_Death_full_71: -8451725188235892847
+      Plant1_Death_full_72: 7779861052185968469
+      Plant1_Death_full_73: 7905759497873015393
+      Plant1_Death_full_74: 1208034190131231023
+      Plant1_Death_full_75: -2775927685423545198
+      Plant1_Death_full_76: 8758693811918800345
+      Plant1_Death_full_77: 8393514702997042588
+      Plant1_Death_full_78: 5701742703425525969
+      Plant1_Death_full_79: -140070839402554359
+      Plant1_Death_full_8: -4704671752096245834
+      Plant1_Death_full_80: 7003957269535111841
+      Plant1_Death_full_81: 8339416205111006055
+      Plant1_Death_full_82: 9187188623650181923
+      Plant1_Death_full_83: 9049845841149912577
+      Plant1_Death_full_84: -5125208303668661812
+      Plant1_Death_full_85: -542945177488412892
+      Plant1_Death_full_86: -3176148596480387492
+      Plant1_Death_full_87: 7665040708682647839
+      Plant1_Death_full_88: -6783324123645979483
+      Plant1_Death_full_89: -3660975194555004276
+      Plant1_Death_full_9: -6310377320097099377
+      Plant1_Death_full_90: 8596946738114431827
+      Plant1_Death_full_91: -6420038229427156998
+      Plant1_Death_full_92: 3309883572575643033
+      Plant1_Death_full_93: -7372190263752522088
+      Plant1_Death_full_94: 838837602432384687
+      Plant1_Death_full_95: 526026830331511904
+      Plant1_Death_full_96: -295408190881120391
+      Plant1_Death_full_97: 7996442421281856466
+      Plant1_Death_full_98: -2219659054392640701
+      Plant1_Death_full_99: -3493264716904197621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

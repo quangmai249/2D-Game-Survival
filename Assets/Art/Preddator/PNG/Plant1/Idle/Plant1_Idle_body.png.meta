@@ -160,7 +160,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -208,6 +208,84 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1159,7 +1237,49 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Plant1_Idle_body_0: -2761855023810825961
+      Plant1_Idle_body_1: -4975347877920243510
+      Plant1_Idle_body_10: 3139596355708881603
+      Plant1_Idle_body_11: -253688759798866002
+      Plant1_Idle_body_12: -7553170315935259811
+      Plant1_Idle_body_13: 2010645777145186330
+      Plant1_Idle_body_14: 5531781546076706003
+      Plant1_Idle_body_15: -3957149179079380419
+      Plant1_Idle_body_16: -7624310614563252404
+      Plant1_Idle_body_17: 1050678201771465669
+      Plant1_Idle_body_18: -7934936583965956675
+      Plant1_Idle_body_19: -2554895382226480497
+      Plant1_Idle_body_2: -3116075298816391803
+      Plant1_Idle_body_20: -6232755294171896300
+      Plant1_Idle_body_21: 5509206646735995062
+      Plant1_Idle_body_22: 6171570341742881953
+      Plant1_Idle_body_23: -4223203372885409964
+      Plant1_Idle_body_24: -2032799899659401549
+      Plant1_Idle_body_25: -1895469903201829033
+      Plant1_Idle_body_26: -4658379373020692454
+      Plant1_Idle_body_27: -1655641630888736270
+      Plant1_Idle_body_28: -2408984571370012806
+      Plant1_Idle_body_29: -6129253687646541122
+      Plant1_Idle_body_3: -6268746439814796473
+      Plant1_Idle_body_30: 4617745027573027337
+      Plant1_Idle_body_31: -7164847228921439757
+      Plant1_Idle_body_32: -7531668162493049275
+      Plant1_Idle_body_33: -5119055061371026145
+      Plant1_Idle_body_34: 3441145933513429012
+      Plant1_Idle_body_35: 3677858973987897204
+      Plant1_Idle_body_36: -3414589514348550743
+      Plant1_Idle_body_37: -7273044569022174905
+      Plant1_Idle_body_38: 5875454269940697085
+      Plant1_Idle_body_39: -7935134097423519944
+      Plant1_Idle_body_4: 1503594875597585432
+      Plant1_Idle_body_40: -5870339645209484234
+      Plant1_Idle_body_41: -5640330682336019795
+      Plant1_Idle_body_5: 4098547330824695301
+      Plant1_Idle_body_6: 5880656949181646113
+      Plant1_Idle_body_7: 2701920716440666180
+      Plant1_Idle_body_8: -2799889345686565936
+      Plant1_Idle_body_9: -8749201318667940528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
