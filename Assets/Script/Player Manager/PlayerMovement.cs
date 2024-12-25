@@ -10,6 +10,10 @@ public class PlayerMovement : MonoBehaviour
     }
     private void FixedUpdate()
     {
+        this.Move();
+    }
+    private void Move()
+    {
         if (Input.GetAxisRaw("Horizontal") != 0)
             this.transform.Translate(Vector2.right * Input.GetAxisRaw("Horizontal") * this._playerStats.SpeedMoving * Time.deltaTime);
         if (Input.GetAxisRaw("Vertical") != 0)

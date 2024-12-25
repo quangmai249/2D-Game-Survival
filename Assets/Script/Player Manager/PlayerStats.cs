@@ -1,7 +1,6 @@
 public class PlayerStats
 {
     private float speedMoving;
-
     public PlayerStats(float speedMoving)
     {
         this.speedMoving = speedMoving;
