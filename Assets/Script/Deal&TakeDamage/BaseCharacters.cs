@@ -5,9 +5,9 @@ public class BaseCharacters : MonoBehaviour
     protected float baseDamage;
     protected float maxHealth;
     protected float currentHealth;
-    void Start()
+    protected virtual void Start()
     {
-        this. currentHealth = this.maxHealth;
+        this.currentHealth = this.maxHealth;
     }
     protected virtual void DealDamage(BaseCharacters obj)
     {
@@ -24,7 +24,7 @@ public class BaseCharacters : MonoBehaviour
     protected virtual void Heal(float amount)
     {
         this.currentHealth += amount;
-        if(this.currentHealth > this.maxHealth) this.currentHealth = this.maxHealth;
+        if (this.currentHealth > this.maxHealth) this.currentHealth = this.maxHealth;
     }
     protected virtual void Die()
     {

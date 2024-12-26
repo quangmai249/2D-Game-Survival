@@ -16,11 +16,12 @@ public class EnemyStats : EnemyMoveSet
     public float Speed { get => speed; set => speed = value; }
     public float Damage { get => damage; set => damage = value; }
     public float DamageRate { get => damageRate; set => damageRate = value; }
-    public void ComboFirst()
+
+    public void Attack()
     {
         throw new System.NotImplementedException();
     }
-    public void ComboSecond()
+    public void Movement()
     {
         throw new System.NotImplementedException();
     }

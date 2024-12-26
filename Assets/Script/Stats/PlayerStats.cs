@@ -1,6 +1,6 @@
 public class PlayerStats
 {
-    private int hp;
+    private float hp;
     private float speedMoving;
     private float range;
     private float damage;
@@ -8,7 +8,7 @@ public class PlayerStats
     private float critRate;
     private float critDamage;
     public PlayerStats() { }
-    public PlayerStats(int hp, float speedMoving, float range, float damage, float damageRate, float critRate, float critDamage)
+    public PlayerStats(float hp, float speedMoving, float range, float damage, float damageRate, float critRate, float critDamage)
     {
         this.Hp = hp;
         this.SpeedMoving = speedMoving;
@@ -18,7 +18,7 @@ public class PlayerStats
         this.CritRate = critRate;
         this.CritDamage = critDamage;
     }
-    public int Hp { get => hp; set => hp = value; }
+    public float Hp { get => hp; set => hp = value; }
     public float SpeedMoving { get => speedMoving; set => speedMoving = value; }
     public float Range { get => range; set => range = value; }
     public float Damage { get => damage; set => damage = value; }
