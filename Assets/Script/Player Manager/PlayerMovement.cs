@@ -4,9 +4,11 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] float speedMoving;
     private PlayerStats _playerStats;
+    private Rigidbody2D _playerRigid;
     private void Awake()
     {
         this._playerStats = new PlayerStats(this.speedMoving);
+        this._playerRigid = GetComponent<Rigidbody2D>();
     }
     private void FixedUpdate()
     {
@@ -14,9 +16,7 @@ public class PlayerMovement : MonoBehaviour
     }
     private void Move()
     {
-        if (Input.GetAxisRaw("Horizontal") != 0)
-            this.transform.Translate(Vector2.right * Input.GetAxisRaw("Horizontal") * this._playerStats.SpeedMoving * Time.deltaTime);
-        if (Input.GetAxisRaw("Vertical") != 0)
-            this.transform.Translate(Vector2.up * Input.GetAxisRaw("Vertical") * this._playerStats.SpeedMoving * Time.deltaTime);
+        this._playerRigid.linearVelocityX = Input.GetAxisRaw("Horizontal") * this._playerStats.SpeedMoving;
+        this._playerRigid.linearVelocityY = Input.GetAxisRaw("Vertical") * this._playerStats.SpeedMoving;
     }
 }
