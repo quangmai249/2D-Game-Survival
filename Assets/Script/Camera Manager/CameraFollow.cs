@@ -4,9 +4,12 @@ public class CameraFollow : MonoBehaviour
 {
     [SerializeField] float speedZoom;
     private Transform playerPos;
+    [SerializeField] int smooth;
+    Vector3 offSet;
     private void Start()
     {
         this.playerPos = GameObject.FindGameObjectWithTag(NameManager.PlayerTag).GetComponent<Transform>();
+        offSet = this.transform.position - this.playerPos.position;
     }
     private void Update()
     {
@@ -14,15 +17,13 @@ public class CameraFollow : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        this.CameraMoving();
-    }
-    private void CameraMoving()
-    {
         this.transform.position = this.posCamera();
     }
+
     private Vector3 posCamera()
     {
-        return new Vector3(this.playerPos.position.x, this.playerPos.position.y, this.transform.position.z);
+        Vector3 targetCam = this.playerPos.position + offSet;
+        return Vector3.Lerp(this.transform.position, targetCam, smooth * Time.deltaTime);
     }
     private void ZoomCamera()
     {
