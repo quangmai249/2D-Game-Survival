@@ -7,7 +7,8 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D _playerRigid;
     private void Awake()
     {
-        this._playerStats = new PlayerStats(this.speedMoving);
+        this._playerStats = new PlayerStats();
+        this._playerStats.SpeedMoving = this.speedMoving;
         this._playerRigid = GetComponent<Rigidbody2D>();
     }
     private void FixedUpdate()
